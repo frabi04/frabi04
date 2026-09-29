@@ -113,7 +113,6 @@ A clean, functional student records management system with create, read, update,
 
 **Impact:** Practical demonstration of database management skills applicable to IT support and operations roles.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-C9A84C?style=for-the-badge&logo=vercel&logoColor=black)](YOUR_DEMO_LINK)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPO_LINK)
 
 </td>
