@@ -17,7 +17,7 @@
 
 ## 🙋‍♀️ About Me
 
-- 🎓 **B.E. Computer Science & Engineering** — Isl Engineering College, Hyderabad (2026)
+- 🎓 **B.E. Computer Science & Engineering** —  Hyderabad (2026)
 - 🤖 Built real-time AI/ML systems using **YOLOv8** and **CNN** — from data to deployment
 - 💬 Passionate about **IT support, customer experience, and structured problem-solving**
 - 📚 Currently deepening knowledge in **ServiceNow, Active Directory, and ITIL fundamentals**
